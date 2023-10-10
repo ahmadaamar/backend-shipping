@@ -8,5 +8,16 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "all": "^0.0.0",
+    "axios": "^1.5.1",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql2": "^3.6.1",
+    "nodemailer": "^6.9.6",
+    "otp-generator": "^4.0.1"
+  }
 }
